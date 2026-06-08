@@ -10,7 +10,7 @@ This project allows users to perform CRUD operations on books with a modern and 
 - 📖 View all books (List & Card view)
 - 🔍 View detailed information of a book
 - ➕ Add new books
-- ✏️ Edit existing books
+- ✏️ Edit existing books.
 - ❌ Delete books
 - 🎨 Beautiful UI with Tailwind CSS
 - ⚡ Fast frontend with Vite
